@@ -22,6 +22,8 @@ The following advanced user stories are optional:
 * [ ]  Bonus Milestone 8: sqlmap vs. SecurityShepherd (Optional)
 * [ ]  Bonus Milestone 9: Watch and Learn (Optional)
 
+## Note: I have answered the challenge questions in wk8Lab.docx file.
+
 ## License
 
     Copyright [2017] [Kazi Zakia Sultana]
